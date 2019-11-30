@@ -1,0 +1,4 @@
+#Sun May 26 22:48:48 SGT 2019
+base.0=C\:\\Users\\tomza\\TwitchAPI\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
